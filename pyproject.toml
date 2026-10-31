@@ -1,0 +1,7 @@
+[project]
+name = "bitfuck"
+version = "1.0.0"
+
+
+[project.scripts]
+btf = "bitfuck.__main__:main"

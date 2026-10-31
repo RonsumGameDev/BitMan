@@ -1,0 +1,10 @@
+pyproject.toml
+bitfuck/__init__.py
+bitfuck/__main__.py
+bitfuck/interpreter.py
+bitfuck/preprocessor.py
+bitfuck.egg-info/PKG-INFO
+bitfuck.egg-info/SOURCES.txt
+bitfuck.egg-info/dependency_links.txt
+bitfuck.egg-info/entry_points.txt
+bitfuck.egg-info/top_level.txt

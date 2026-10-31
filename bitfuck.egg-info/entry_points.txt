@@ -1,0 +1,2 @@
+[console_scripts]
+btf = bitfuck.__main__:main
